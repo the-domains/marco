@@ -1,0 +1,28 @@
+name: Marco
+favicon: null
+layout_spectrum: 0.6365724264178425
+typography_spectrum: 0.16308082011528313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9680149829946458
+  lightness: 0.3518507704138756
+  saturation: 0.3902914060745388
+  rhythmicContrast: 0.8545991901773959
+purpose: []
